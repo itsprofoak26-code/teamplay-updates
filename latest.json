@@ -1,0 +1,6 @@
+{
+ "version": 1,
+ "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1/EDOPro-TeamPlay-v1.zip",
+ "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1/update-v1.zip",
+ "notes": "First release of EDOPro Team Play: 2v2 where both teammates play at once. See TEAMPLAY_RULES.md."
+}
