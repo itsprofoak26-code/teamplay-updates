@@ -1,6 +1,6 @@
 {
- "version": 1,
- "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1/EDOPro-TeamPlay-v1.zip",
- "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1/update-v1.zip",
- "notes": "First release of EDOPro Team Play: 2v2 where both teammates play at once. See TEAMPLAY_RULES.md."
+ "version": 2,
+ "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v2/EDOPro-TeamPlay-v2.zip",
+ "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v2/update-v2.zip",
+ "notes": "Fixes: hand cards can be played with the hand view on Both; the second duelist's Extra Deck pile can be clicked, viewed and summoned from."
 }
