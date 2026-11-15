@@ -1,6 +1,6 @@
 {
- "version": 4,
- "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v4/EDOPro-TeamPlay-v4.zip",
- "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v4/update-v4.zip",
- "notes": "Droll & Lock Bird (and other 'for the rest of this turn' locks from hand effects) now lock only the duelist who triggered them, chosen automatically, instead of both teammates."
+ "version": 5,
+ "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v5/EDOPro-TeamPlay-v5.zip",
+ "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v5/update-v5.zip",
+ "notes": "Fixes duels ending suddenly: a stray click from the teammate who didn't answer could be sent as an invalid answer, which ended the duel as a draw. Now it can't be sent, and an invalid answer re-asks the team instead. Also fixes a possible crash when several cards move to a Deck at once."
 }
