@@ -1,6 +1,6 @@
 {
- "version": 3,
- "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v3/EDOPro-TeamPlay-v3.zip",
- "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v3/update-v3.zip",
- "notes": "The second duelist's Deck and Extra Deck piles now glow when they hold a card you can summon or activate, like the first duelist's."
+ "version": 4,
+ "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v4/EDOPro-TeamPlay-v4.zip",
+ "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v4/update-v4.zip",
+ "notes": "Droll & Lock Bird (and other 'for the rest of this turn' locks from hand effects) now lock only the duelist who triggered them, chosen automatically, instead of both teammates."
 }
