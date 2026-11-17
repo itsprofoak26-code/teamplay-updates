@@ -1,7 +1,7 @@
 {
  "version": 6,
- "display": "1.6",
- "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1.6/EDOPro-TeamPlay-v1.6.zip",
- "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1.6/update-v1.6.zip",
+ "display": "6",
+ "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v6/EDOPro-TeamPlay-v6.zip",
+ "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v6/update-v6.zip",
  "notes": "Mulcharmy Fuwalos (and other hand traps with 'for the rest of this turn' effects): every draw and the End Phase check now stay with the player who activated it. Activation limits such as 'only 1 other Mulcharmy this turn' apply to the whole team."
 }
