@@ -1,6 +1,7 @@
 {
- "version": 5,
- "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v5/EDOPro-TeamPlay-v5.zip",
- "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v5/update-v5.zip",
- "notes": "Fixes duels ending suddenly: a stray click from the teammate who didn't answer could be sent as an invalid answer, which ended the duel as a draw. Now it can't be sent, and an invalid answer re-asks the team instead. Also fixes a possible crash when several cards move to a Deck at once."
+ "version": 6,
+ "display": "1.6",
+ "install": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1.6/EDOPro-TeamPlay-v1.6.zip",
+ "update": "https://github.com/itsprofoak26-code/teamplay-updates/releases/download/v1.6/update-v1.6.zip",
+ "notes": "Mulcharmy Fuwalos (and other hand traps with 'for the rest of this turn' effects): every draw and the End Phase check now stay with the player who activated it. Activation limits such as 'only 1 other Mulcharmy this turn' apply to the whole team."
 }
